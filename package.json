@@ -2,7 +2,7 @@
   "name": "max-subarray-viz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://crispulum.github.io",
+  "homepage": "https://crispulum.github.io/max-subarray-viz/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
