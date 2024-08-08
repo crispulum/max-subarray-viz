@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/max-subarray-viz/static/css/main.2499b20f.css",
-    "main.js": "/max-subarray-viz/static/js/main.f56a5ce3.js",
+    "main.js": "/max-subarray-viz/static/js/main.b913fd47.js",
     "static/media/logo.svg": "/max-subarray-viz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/max-subarray-viz/index.html",
     "main.2499b20f.css.map": "/max-subarray-viz/static/css/main.2499b20f.css.map",
-    "main.f56a5ce3.js.map": "/max-subarray-viz/static/js/main.f56a5ce3.js.map"
+    "main.b913fd47.js.map": "/max-subarray-viz/static/js/main.b913fd47.js.map"
   },
   "entrypoints": [
     "static/css/main.2499b20f.css",
-    "static/js/main.f56a5ce3.js"
+    "static/js/main.b913fd47.js"
   ]
 }
